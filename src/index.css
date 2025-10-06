@@ -1,0 +1,19 @@
+/* * {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, sans-serif;
+} */
+ @import "tailwindcss";
+
+/* Add this to your src/index.css file */
+.toggle-checkbox:checked {
+  right: 0;
+  border-color: #3B82F6; /* blue-500 */
+}
+.toggle-checkbox:checked + .toggle-label {
+  background-color: #3B82F6; /* blue-500 */
+}
