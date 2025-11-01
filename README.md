@@ -12,6 +12,27 @@ Currently, two official plugins are available:
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
 =======
-# Project_KubixQuant
->>>>>>> 2829fe92d7b1b361721627ef851d33e2404612b1
-# Project_TraderMania
+# KubixQuant Trader
+
+This is a comprehensive trading platform built with React and Vite, featuring advanced market analysis, strategy building, and real-time data integration.
+
+## Features
+
+- Real-time market data
+- Strategy builder with AI assistance
+- Portfolio management
+- Technical analysis tools
+- Multi-exchange support
+
+## Getting Started
+
+1. Clone the repository
+2. Install dependencies: `npm install`
+3. Start the development server: `npm run dev`
+
+## Technologies Used
+
+- React
+- Vite
+- Tailwind CSS
+- Various trading APIs
